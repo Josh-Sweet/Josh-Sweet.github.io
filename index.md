@@ -1,5 +1,5 @@
 ## About Me
-I recently graduated from Washington State University and am actively searching postions where I am able to advance the skills I have gained through my education and experience.
+I recently graduated from Washington State University and am actively searching postions where I am able to advance the skills I have gained through my education and experience. I am a eager to acquire the opportunity to contribute on a team. 
 ### Below are some projects I have worked on since graduation.
 #### SessionScheduler
 [A Django project](https://github.com/Josh-Sweet/SessionScheduler) for creating and viewing session times using a configured number of meeting locations.
