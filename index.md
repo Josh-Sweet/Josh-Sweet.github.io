@@ -12,4 +12,4 @@ I recently graduated from Washington State University and am actively searching 
 [A Django project](https://github.com/Josh-Sweet/WikiImageWebScraper) that uses a web scraper to gather images from a Wikipedia page based on a phrase provided by the user.
 
 #### Machine Learning and Data Processing
-[A collection of scripts](https://github.com/Josh-Sweet/DataProcessing) that was done to make predictive models and perform data processing on a dataset.
+[A collection of scripts](https://github.com/Josh-Sweet/DataProcessing) which makes predictive models and performs data processing on a dataset.
