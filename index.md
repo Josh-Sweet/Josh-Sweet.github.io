@@ -13,3 +13,6 @@ I recently graduated from Washington State University and am actively searching 
 
 #### Machine Learning and Data Processing
 [A collection of scripts](https://github.com/Josh-Sweet/DataProcessing) which make predictive models and perform data processing on a dataset.
+
+#### Scikit learn Machine Learning Models
+[A collection of iPythons](https://github.com/Josh-Sweet/Scikit-learn-Machine-Learning-Models) which produce machine learning models using sklearn and show how certain variable values determine the accuracy.
