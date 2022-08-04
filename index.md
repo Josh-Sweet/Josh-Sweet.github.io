@@ -1,9 +1,10 @@
 ## About Me
-I graduated from Washington State University and am actively searching postions where I am able to advance the skills I have gained through my education and experience. I am a eager to acquire the opportunity to contribute on a team. 
-### Below are some projects I have worked on since graduation.
+I graduated from Washington State University and am activly searching for postions where I am able to advance the skills I have gained through my education and experience. I am a eager to acquire the opportunity to contribute on a team. 
 
-#### LeetCode Problem Solutions
-[A collection of solutions](https://github.com/Josh-Sweet/LeetCode-Problems) to various problems that can be solved on [LeetCode](https://leetcode.com/).
+I have continued to work on my skills by solving various problems that can be found on [LeetCode](https://leetcode.com/). A collection of my solutions can be found [here](https://github.com/Josh-Sweet/LeetCode-Problems).
+
+## Course Projects
+Below are some course projects I have worked on after graduating.   
 
 #### SessionScheduler
 [A Django project](https://github.com/Josh-Sweet/SessionScheduler) for creating and viewing session times using a configured number of meeting locations.
