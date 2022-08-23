@@ -1,5 +1,5 @@
 ## About Me
-I graduated from Washington State University and am activly searching for postions where I am able to advance the skills I have gained through my education and experience. I am eager to acquire the opportunity to contribute on a team. 
+I graduated from Washington State University and am actively searching for postions where I am able to advance the skills I have gained through my education and experience. I am eager to acquire the opportunity to contribute on a team. 
 
 I have continued to work on my skills by solving various problems that can be found on [LeetCode](https://leetcode.com/). A collection of my solutions can be found [here](https://github.com/Josh-Sweet/LeetCode-Problems).
 
